@@ -16,7 +16,8 @@ h1{
     width: 50%;
     padding-left: 5%;
     padding-right: 10%;
-}.half-width img{
+}
+.half-width img{
     width: 100%;
 }
 .link-button{
@@ -42,5 +43,12 @@ h1{
 .experience-item img{
     height: 80px;
 }
-
+footer p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;  
+}
+footer h1{
+    text-align: center;
+}
 
